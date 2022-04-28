@@ -16,6 +16,7 @@ body{
     display: flex;
     gap: 40px;
     color: #fff;
+    flex-wrap: wrap;
 }
 #time .circle{
     position: relative;
